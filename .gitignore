@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
